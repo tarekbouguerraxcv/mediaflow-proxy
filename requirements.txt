@@ -1,1 +1,10 @@
-
+uvicorn
+fastapi
+aiohttp
+httpx
+pydantic
+pydantic-settings
+python-dotenv
+jinja2
+validators
+python-multipart
